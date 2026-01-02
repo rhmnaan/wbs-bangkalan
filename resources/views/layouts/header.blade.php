@@ -45,7 +45,7 @@
                 Laporkan Sekarang
                 <i data-lucide="mail-warning" class="w-5 h-5 stroke-2"></i>
             </a>
-            <a href="{{ route('login') }}" class="px-5 py-2 rounded-full border border-blue-600 text-blue-600 font-manrope font-extrabold hover:bg-blue-600 hover:text-white transition">
+            <a href="{{ route('login') }}" class="px-5 py-2 rounded-full border border-[#B8B8B8] text-[#020B22] font-manrope font-extrabold hover:bg-blue-600 hover:text-white transition">
                 Pantau Laporan
             </a>
         </div>
